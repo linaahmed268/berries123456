@@ -1,0 +1,133 @@
+/* Lines 3 to 56 was done by Nouran Wael 49-7181*/
+
+@font-face {
+    font-family: 'rustico';
+    src: url(fonts/Rustico-Regular);
+    font-weight: 100;
+    font-style: normal;
+}
+
+header{
+    margin: 30px;
+    background-color: rgb(209, 209, 26);
+    text-align: right;
+    color: black;
+    padding: 5px;
+}
+
+header a:link{
+    color: black;
+}
+
+header a:visited{
+    color: black;
+}
+
+header a:hover{
+    color: white;
+    transition: 0.3s;
+    text-decoration: none;
+}
+body{
+    background-color: black;
+    color: white;
+    font-family: rustico;
+    font-weight: 100;
+}
+
+.botton{
+    margin-right: 30px;
+}
+header {
+    background-color: rgb(209, 209, 26);
+    
+}
+
+#aboutus{
+    margin-top: 40px ;
+    margin: 0%;
+    padding: 5%;
+    overflow: auto;
+}
+#aboutus img{
+    float: left;
+    overflow: auto;
+    margin-right: 20px;
+}
+/*Lines 58 to 87 was done by Lina Ahmed 49-0633 */
+.pgbar{
+    background-color: rgb(209, 209, 26);
+    color: black;
+    padding: 20px;
+}
+.pgbar  a {
+    margin: 10%;
+}
+
+.progress{
+    margin-top: 0px;
+    margin-bottom: 20px;
+    margin-left: 140px;
+    width: 50%;
+}
+
+.progress-bar{
+    background: rgb(0, 0, 0);
+    
+}
+
+#projects{
+    margin-top: 60px;
+    margin: 30px;
+}
+
+img {
+    border-radius: 25px;
+    margin-bottom: 30px;
+}
+/*Lines 90 to 128 was done by Nouran Wael 49-7181 */
+
+.btn{
+    color:white;
+    border: solid yellow;
+    background-color: black;
+}
+
+.btn-primary:hover {
+    background-color: rgb(209, 209, 26);
+    border: black solid;
+    color: black;
+}
+
+#carouselExampleCaptions {
+    margin: 25%;
+    margin-bottom: 20px;
+    margin-top: 10%;
+}
+
+.text {
+    background-color: black;
+    padding: 10px;
+    border-radius: 20px;
+}
+h2{
+    margin: 30px;
+}
+
+footer{
+    background-color: rgb(209, 209, 26);
+    margin: 30px;
+    margin-top: 50px;
+    text-align: center;
+    color: black;
+    padding: 30px;
+}
+path:hover{
+    fill: black;
+}
+/* lines 130 to 134 was done Lina Ahmed - 49-0633*/
+#fb, #ig {
+   
+    margin: 10px;
+    display: inline;
+}

@@ -1,0 +1,45 @@
+/* WHole CSS by Nouran Wael - 49-7181*/
+
+@font-face {
+    font-family: 'rustico';
+    src: url(fonts/Rustico-Regular);
+    font-weight: 100;
+    font-style: normal;
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-family: rustico;
+    font-weight: 100;
+}
+
+header a:link{
+    color: black;
+}
+
+header a:visited{
+    color: black;
+}
+
+header a:hover{
+    color: white;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+#button {
+    background-color: rgb(194, 18, 18);
+   text-align: right;
+   padding: 10px;
+}
+
+.nav-link {
+    display: inline;
+}
+
+h1 {
+    text-align: center;
+    margin: 30%;
+    ;
+}
